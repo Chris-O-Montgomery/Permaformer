@@ -1,4 +1,4 @@
--Game incomplete:
+-Game incomplete:\n
  -Sprites: finished
  -Map: finished
  -SFX: finished
