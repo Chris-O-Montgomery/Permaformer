@@ -1,13 +1,6 @@
-Game incomplete:\
- -Sprites: finished\
- -Map: finished\
- -SFX: finished\
- -Gameplay: finished\
- -Environments: finished\
- -Music: unfinished
- 
-Story: Dr. Evil is roboticizing the forest!!!! AND YOU!!!
-        Make your way through the forest to stop him!
+ Story: Dr. Evil is roboticizing the forest!!!! AND YOU!!!
+        But thanks to him, you now have the power of permeation! 
+        Make your way through the forest to stop him, and savce the LAST TREE EVER!!!!!
 
 Controls: \
   -X: jump/double jump\
