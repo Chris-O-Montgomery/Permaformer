@@ -7,7 +7,7 @@ Controls: \
   -Z: permeate (only through red platforms)\
   -Arrow keys: move
   
-To play, just download the zip file and run the application!
+To play, just download the zip file from the bin folder and run the application!
 
   THANKS FOR PLAYING!!
   
