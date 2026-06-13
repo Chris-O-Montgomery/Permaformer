@@ -6,6 +6,9 @@ Controls: \
   -X: jump/double jump\
   -Z: permeate (only through red platforms)\
   -Arrow keys: move
+
+  Releasing the permeation in a wall will trap you and give you a midair jump back.\
+  Once you die, just click X to respawn.
   
 To play, just download the zip file from the bin folder and run the application!
 
