@@ -5,7 +5,7 @@
 Controls: \
   -X: jump/double jump\
   -Z: permeate (only through red platforms)\
-  -Arrow keys: move\
+  -Arrow keys: move
 
   THANKS FOR PLAYING!!
   
